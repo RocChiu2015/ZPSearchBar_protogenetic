@@ -1,0 +1,2 @@
+# ZPSearchBar_protogenetic
+介绍苹果在iOS8之后新推出的搜索控件(UISearchController)的创建和使用，并且这个Demo使用的是UISearchController控件自带的原生搜索框(UISearchBar)(original)。
